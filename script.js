@@ -1,6 +1,6 @@
 //Cara membuat object pada javascript
 //1. Object literal
-//PROMBEL TIDAK EFEKTIF UNTUK MEMBUAT OBJEK YANG BANYAK
+//PROBLEM TIDAK EFEKTIF UNTUK MEMBUAT OBJEK YANG BANYAK
 // let mahasiswa = {
 //   nama: "Zia",
 //   energi: 10,
@@ -13,7 +13,7 @@
 //2. function declaration
 
 //ini object, yang akan disimpan setiap dijalankan
-//PROMBLEM: PENYIMPANAN DI MEMORINYA TIDAK EFEKTIF
+//PROBLEM: PENYIMPANAN DI MEMORINYA TIDAK EFEKTIF
 // const methodeMahasiswa = {
 //   makan: function (porsi) {
 //     this.energi += porsi;
